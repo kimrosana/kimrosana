@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimrosana!
 - 👀 I’m interested in music, crossword puzzles, comedy TV shows and reading.
 - 🌱 I’m currently developing my Power BI and SQL skills, and learning Python bit by bit.
-- 💞️ I’m looking to collaborate on any project involving SQL and Power BI! I have vast interest in many subjects :)
+- 💞️ I’m looking to collaborate on any project involving SQL and Power BI! I am very curious about the world, which makes me interested in many subjects :)
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: I was an ESL teacher before I found out my passion for data!
 
